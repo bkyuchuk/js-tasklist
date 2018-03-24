@@ -1,0 +1,1 @@
+A simple tasklist made in JS with Materialize. It has basic functionality like local storage CRUD and filtering.
